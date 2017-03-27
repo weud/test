@@ -6,3 +6,5 @@ if (hiyar) {
 console.log('noluyor burada');
 
 console.log('noluyor burada2');
+
+console.log('serdar');
